@@ -1,0 +1,476 @@
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\YachayChild.dll.config
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\YachayChild.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\YachayChild.pdb
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\csc.exe
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\csc.rsp
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\csi.exe
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\csi.rsp
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\vbc.exe
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\obj\Debug\YachayChild.csprojAssemblyReference.cache
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\obj\Debug\YachayChild.csproj.CoreCompileInputs.cache
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\obj\Debug\YachayChild.csproj.CopyComplete
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+F:\2020-II\DS II\BLOG\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\YachayChild.dll.config
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\YachayChild.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\YachayChild.pdb
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.exe
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.rsp
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.exe
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.rsp
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.exe
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csproj.CopyComplete
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+C:\Users\usuario\source\repos\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csprojResolveAssemblyReference.cache
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\YachayChild.dll.config
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\YachayChild.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\YachayChild.pdb
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.exe
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.rsp
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.exe
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.rsp
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.exe
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\CapaNegocio.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\YachayChild\bin\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\YachayChild.dll.config
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\csc.exe
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\csc.rsp
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\csi.exe
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\csi.rsp
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\vbc.exe
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\obj\Debug\YachayChild.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\YachayChild.dll.config
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\YachayChild.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\YachayChild.pdb
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.exe
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\csc.rsp
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.exe
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\csi.rsp
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.exe
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\CapaNegocio.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\CapaNegocio.pdb
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csprojAssemblyReference.cache
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csproj.CoreCompileInputs.cache
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.csproj.CopyComplete
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\YachayChild.dll.config
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\csc.exe
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\csc.rsp
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\csi.exe
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\csi.rsp
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\vbc.exe
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\obj\Debug\YachayChild.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\YachayChild.dll.config
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\csc.exe
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\csc.rsp
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\csi.exe
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\csi.rsp
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\vbc.exe
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\obj\Debug\YachayChild.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild2\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\YachayChild.dll.config
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\csc.exe
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\csc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\csc.rsp
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\csi.exe
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\csi.exe.config
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\csi.rsp
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.AppContext.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Collections.Immutable.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Console.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Globalization.Calendars.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Net.Http.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Net.Sockets.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.ValueTuple.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\vbc.exe
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\vbc.exe.config
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\vbc.rsp
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\roslyn\VBCSCompiler.exe.config
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\obj\Debug\YachayChild.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\obj\Debug\YachayChild.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\YachayChild\obj\Debug\YachayChild.pdb
+E:\Sofatware 2\ASP NET\YachayChild3.2\YachayChild\YachayChild\obj\Debug\YachayChild.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild3.2\YachayChild\YachayChild\obj\Debug\YachayChild.dll

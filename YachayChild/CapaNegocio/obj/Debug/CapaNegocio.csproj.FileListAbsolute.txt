@@ -1,0 +1,29 @@
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Norka\Downloads\YachayChild\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\2020-II\DS II\Unidad III\Proyecto\YachayChild\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild (1)\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild3\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Sofatware 2\ASP NET\YachayChild3.2\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Sofatware 2\ASP NET\YachayChild3.2\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Sofatware 2\ASP NET\YachayChild3.2\YachayChild\CapaNegocio\obj\Debug\CapaNegocio.pdb
